@@ -1,4 +1,4 @@
-﻿Imports System
+Imports System
 Imports System.Reflection
 Imports System.Runtime.InteropServices
 
@@ -8,11 +8,11 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("RN-OutlookMailReader")>
-<Assembly: AssemblyDescription("")>
+<Assembly: AssemblyTitle("RN Outlook Mail Reader")>
+<Assembly: AssemblyDescription("Lees outlook Messages zonder gebruik van Microsoft Outlook. Microsoft Outlook en het .msg bestand zijn producten van Microsoft")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("RN-OutlookMailReader")>
-<Assembly: AssemblyCopyright("Copyright ©  2018")>
+<Assembly: AssemblyProduct("RN Outlook Mail Reader")>
+<Assembly: AssemblyCopyright("Copyright ©  2018 Roy Nijkamp")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
@@ -31,5 +31,7 @@ Imports System.Runtime.InteropServices
 ' by using the '*' as shown below:
 ' <Assembly: AssemblyVersion("1.0.*")>
 
-<Assembly: AssemblyVersion("1.0.0.0")>
-<Assembly: AssemblyFileVersion("1.0.0.0")>
+<Assembly: AssemblyVersion("1.0.6921.0826")>
+<Assembly: AssemblyFileVersion("1.0.6921.0826")>
+
+<Assembly: AssemblyInformationalVersion("1.0.1-beta-05")>
